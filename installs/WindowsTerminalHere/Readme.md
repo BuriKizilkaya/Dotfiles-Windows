@@ -1,4 +1,7 @@
+! This a copy of [Scott Hanselman](https://github.com/shanselman/WindowsTerminalHere) repo.
+
 # WindowsTerminalHere
+
 a .inf file for a right click Explorer "windows terminal here" for WT until it's supported directly
 
 ## Installation
